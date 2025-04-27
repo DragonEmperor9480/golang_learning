@@ -8,8 +8,8 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
 
 | Order | Topic                | Subtopics Covered                                                                 | Status   |
 |:-----:|:--------------------- |:---------------------------------------------------------------------------------|:--------:|
-| 1     | Variables             | Declaration, Initialization, Constants, Zero Values, Short Declaration, Scope   | ⏳ Not Started |
-| 2     | Conditionals          | If, Else if, Else, Switch (multiple cases, type switches)                        | ⏳ Not Started |
+| 1     | Variables             | Declaration, Initialization, Constants, Zero Values, Short Declaration, Scope   | ✅ Completed |
+| 2     | Conditionals          | If, Else if, Else, Switch (multiple cases, type switches)                        | 🚀 In Progress |
 | 3     | Functions             | Basic, Variadic, Named returns, Multiple returns, Defer, Recursion, Anonymous, Closures | ⏳ Not Started |
 | 4     | Structs               | Define Structs, Instantiate, Methods with structs, Struct Embedding             | ⏳ Not Started |
 | 5     | Interfaces            | Define Interfaces, Implement, Empty Interface, Type Assertion, Type Switch      | ⏳ Not Started |
