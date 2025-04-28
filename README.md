@@ -30,12 +30,15 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
   - ⏳ Not Started → 🚀 In Progress → ✅ Completed
 
 ## Things still needed to be improved
-  - closures, Recursion, Aninymous
+  - Functions := closures, Recursion, Anonymous
 
   ## Sources used for studies
   - youtube - Freecodecamp
   - website - https://www.boot.dev/
   - AI - chatgpt(for generating practice questions and simple explaination of topics)
+
+  ## boot.dev profile
+  - https://www.boot.dev/u/dragonemperor9480
 
 ---
 
