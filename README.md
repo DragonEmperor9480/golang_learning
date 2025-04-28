@@ -32,5 +32,10 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
 ## Things still needed to be improved
   - closures, Recursion, Aninymous
 
+  ## Sources used for studies
+  - youtube - Freecodecamp
+  - website - https://www.boot.dev/
+  - AI - chatgpt(for generating practice questions and simple explaination of topics)
+
 ---
 
