@@ -10,8 +10,8 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
 |:-----:|:--------------------- |:---------------------------------------------------------------------------------|:--------:|
 | 1     | Variables             | Declaration, Initialization, Constants, Zero Values, Short Declaration, Scope   | ✅ Completed |
 | 2     | Conditionals          | If, Else if, Else, Switch (multiple cases, type switches)                        | ✅ Completed |
-| 3     | Functions             | Basic, Variadic, Named returns, Multiple returns, Defer, Recursion, Anonymous, Closures | 🚀 In Progress |
-| 4     | Structs               | Define Structs, Instantiate, Methods with structs, Struct Embedding             | ⏳ Not Started |
+| 3     | Functions             | Basic, Variadic, Named returns, Multiple returns, Defer, Recursion, Anonymous, Closures | ✅ Completed |
+| 4     | Structs               | Define Structs, Instantiate, Methods with structs, Struct Embedding             | 🚀 In Progress |
 | 5     | Interfaces            | Define Interfaces, Implement, Empty Interface, Type Assertion, Type Switch      | ⏳ Not Started |
 | 6     | Errors                | Built-in error handling, Custom errors, errors.New, fmt.Errorf, panic, recover   | ⏳ Not Started |
 | 7     | Loops                 | For loop, While-style, Infinite loop, Break/Continue                            | ⏳ Not Started |
@@ -28,6 +28,9 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
 
 ## 🛠 Tracker Info
   - ⏳ Not Started → 🚀 In Progress → ✅ Completed
+
+## Things still needed to be improved
+  - closures, Recursion, Aninymous
 
 ---
 
