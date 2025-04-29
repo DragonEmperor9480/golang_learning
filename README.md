@@ -31,6 +31,7 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
 
 ## Things still needed to be improved
   - Functions := closures, Recursion, Anonymous
+  - Structs := value receiver & pointer receiver, Struct tags
 
   ## Sources used for studies
   - youtube - Freecodecamp
