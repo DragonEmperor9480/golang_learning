@@ -12,10 +12,10 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
 | 2     | Conditionals          | If, Else if, Else, Switch (multiple cases, type switches)                        | ✅ Completed |
 | 3     | Functions             | Basic, Variadic, Named returns, Multiple returns, Defer, Recursion, Anonymous, Closures | ✅ Completed |
 | 4     | Structs               | Define Structs, Instantiate, Methods with structs, Struct Embedding             | ✅ Completed |
-| 5     | Interfaces            | Define Interfaces, Implement, Empty Interface, Type Assertion, Type Switch      | 🚀 In Progress |
-| 6     | Errors                | Built-in error handling, Custom errors, errors.New, fmt.Errorf, panic, recover   | ⏳ Not Started |
-| 7     | Loops                 | For loop, While-style, Infinite loop, Break/Continue                            | ⏳ Not Started |
-| 8     | Slices                | Create, Append, Copy, Slicing operations, Internal mechanics                    | ⏳ Not Started |
+| 5     | Interfaces            | Define Interfaces, Implement, Empty Interface, Type Assertion, Type Switch      | ✅ Completed |
+| 6     | Errors                | Built-in error handling, Custom errors, errors.New, fmt.Errorf, panic, recover   | ✅ Completed |
+| 7     | Loops                 | For loop, While-style, Infinite loop, Break/Continue                            | ✅ Completed |
+| 8     | Slices                | Create, Append, Copy, Slicing operations, Internal mechanics                    | 🚀 In Progress |
 | 9     | Maps                  | Creation, Insertion, Deletion, Iteration, Check existence                       | ⏳ Not Started |
 | 10    | Pointers              | Basics, Pointer to Structs, Dereferencing, No pointer arithmetic                | ⏳ Not Started |
 | 11    | Packages and Modules  | Packages, Modules (go mod), Importing, Visibility (capital letter = public)      | ⏳ Not Started |
@@ -33,6 +33,7 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
   - Functions := closures, Recursion, Anonymous
   - Structs := value receiver & pointer receiver, Struct tags
   - Type Switch, coding and MCQ
+  - Arrays := Multidimensional Arrays, Array Comparison	
 
   ## Sources used for studies
   - youtube - Freecodecamp
