@@ -9,22 +9,12 @@ package main
 import "fmt"
 
 func isPalindrome(arr [5]int) bool {
-	z := 0
-	for i, _ := range arr {
-		if arr[i] != arr[(len(arr)-1)-i] {
-			if arr[(len(arr)-1)-i] <= 0 {
-				break
-			}
-			z++
+	for i := 0; i < len(arr)/2; i++ {
+		if arr[i] != arr[len(arr)-1-i] {
+			return false
 		}
-
 	}
-	if z > 0 {
-		return false
-	} else {
-		return true
-	}
-
+	return true
 }
 
 func main() {
