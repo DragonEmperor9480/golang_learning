@@ -1,0 +1,6 @@
+| Feature           | Array     | Slice                             |
+| ----------------- | --------- | --------------------------------- |
+| Fixed size        | ✅ Yes     | ❌ No (dynamic)                 |
+| Memory efficiency | ❌ Less    | ✅ More flexible                |
+| Passed by         | Value       | Reference to underlying array   |
+| Can be resized    | ❌ No      | ✅ Yes (with `append`)          |
