@@ -15,14 +15,16 @@ This roadmap is for **my personal tracking** as I learn Go programming deeply.
 | 5     | Interfaces            | Define Interfaces, Implement, Empty Interface, Type Assertion, Type Switch      | ✅ Completed |
 | 6     | Errors                | Built-in error handling, Custom errors, errors.New, fmt.Errorf, panic, recover   | ✅ Completed |
 | 7     | Loops                 | For loop, While-style, Infinite loop, Break/Continue                            | ✅ Completed |
-| 8     | Slices                | Create, Append, Copy, Slicing operations, Internal mechanics                    | 🚀 In Progress |
-| 9     | Maps                  | Creation, Insertion, Deletion, Iteration, Check existence                       | ⏳ Not Started |
-| 10    | Pointers              | Basics, Pointer to Structs, Dereferencing, No pointer arithmetic                | ⏳ Not Started |
-| 11    | Packages and Modules  | Packages, Modules (go mod), Importing, Visibility (capital letter = public)      | ⏳ Not Started |
-| 12    | Channels              | Basics, Buffered Channels, Directional Channels, Select, Closing channels      | ⏳ Not Started |
-| 13    | Mutexes               | Race Conditions, sync.Mutex, sync.RWMutex, Go Race Detector tool                | ⏳ Not Started |
-| 14    | Generics              | Introduction (Go 1.18+), Type Parameters, Generic Functions, Generic Structs    | ⏳ Not Started |
-| 15    | Enums (using iota)     | Using const + iota to create Enum patterns                                       | ⏳ Not Started |
+| 8     | Arrays                 | Initialization, Decleration, accessing ,modifying, iteration, value types      | ✅ Completed |
+| 9     | Slices                | Create, Append, Copy, Slicing operations, Internal mechanics                    | 🚀 In Progress |
+| 10    | Maps                  | Creation, Insertion, Deletion, Iteration, Check existence                       | ⏳ Not Started |
+| 11    | Pointers              | Basics, Pointer to Structs, Dereferencing, No pointer arithmetic                | ⏳ Not Started |
+| 12    | Packages and Modules  | Packages, Modules (go mod), Importing, Visibility (capital letter = public)     | 🚀 In Progress |
+| 13    | Local Development     | Creating packages and modules locally                                           | 🚀 In Progress |
+| 14    | Channels              | Basics, Buffered Channels, Directional Channels, Select, Closing channels      | ⏳ Not Started |
+| 15    | Mutexes               | Race Conditions, sync.Mutex, sync.RWMutex, Go Race Detector tool                | ⏳ Not Started |
+| 16    | Generics              | Introduction (Go 1.18+), Type Parameters, Generic Functions, Generic Structs    | ⏳ Not Started |
+| 17    | Enums (using iota)     | Using const + iota to create Enum patterns                                       | ⏳ Not Started |
 
 ---
 
