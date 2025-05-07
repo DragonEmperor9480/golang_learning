@@ -1,0 +1,5 @@
+#To initialize a module
+go mod init {REMOTE}/{USERNAME}/{LIBRARYNAME}
+
+#to fet a library
+go get {REMOTE}/{USERNAME}/{LIBRARYNAME}
